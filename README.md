@@ -21,5 +21,6 @@
 
 
 ## 🚀 Hướng dẫn trò chơi
+Hãy vào thư mục Scenes >rpgpp_lt_scene_1.0(map 1) hoặc SampleScene(map 2)
 Các nút ấn cho player
 ![Controller](https://github.com/LETUan1245/Fantasy/blob/0eab51ecca21bc2edc6be9ebfceb9b4fc7a40889/Controller.jpg)
